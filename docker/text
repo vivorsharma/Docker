@@ -1,0 +1,19 @@
+
+    
+
+    Before Docker
+    1. write application code 
+    2. install neccessary dependencies 
+    3. test it locally
+    4. prepare deployememt artifacts(also known as builds). 
+    5. install all the dependencies with same version on sevrers that you want to deploy to your app.
+
+
+    After Docker
+    1. write application code
+    2. Build dockerfile & Image
+    3. Deploy the docker container on server.
+
+
+What is Docker ?
+Docker is Containerization platform for packaging, deploying, and running applications as Containers.
